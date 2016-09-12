@@ -1,1 +1,54 @@
-style.css
+
+
+h1{
+  color: darkblue;
+  background:blue;
+  margin-left: 25px;
+  font-family: monospace;
+}
+img{
+margin-left: auto;
+margin-right: auto;
+display: block;
+border-color: currentColor; darkslateblue
+}
+h3{
+color: currentColor;darkslateblue
+font-style: oblique;
+font-family: fantasy;
+}
+this-is-different{
+  color: currentColor;skyblue;
+  font-family: cursive;
+}
+not-this-one{
+color: currentColor;purple;
+font-family: fantasy;
+display:block;
+margin: auto;
+text-align: center;
+}
+h4{
+color: currentColor;mediumpurple;
+background-color: currentColor; silver;
+font-family:fantasy;
+margin: auto;
+display: block;
+text-align: center;
+font-style: normal;
+}
+p{
+  color: currentColor;darkslateblue
+  background-color: currentColor;plum;
+  font-family:cursive;
+  font-style: oblique;
+  margin: auto;
+  display: inline;
+  text-align: left;
+}
+a{
+  color:currentColor;orchird;
+  background-color: currentColor; plum;
+  font-style: italic;
+  font-family:sans-serif;
+}
