@@ -1,8 +1,8 @@
 
 
 h1{
-  color: darkblue;
-  background:blue;
+  //color: darkblue;
+  //background:skyblue;
   margin-left: 25px;
   font-family: monospace;
 }
@@ -10,45 +10,41 @@ img{
 margin-left: auto;
 margin-right: auto;
 display: block;
-border-color: currentColor; darkslateblue
+//border-color:darkslateblue
 }
 h3{
-color: currentColor;darkslateblue
-font-style: oblique;
-font-family: fantasy;
+//text-color:darkslateblue;
+//background-color;plum;
 }
 this-is-different{
-  color: currentColor;skyblue;
-  font-family: cursive;
+  text-color:skyblue;
 }
 not-this-one{
-color: currentColor;purple;
-font-family: fantasy;
+//text-color:purple;
+//font-family:sans-serif;;
 display:block;
 margin: auto;
 text-align: center;
 }
 h4{
-color: currentColor;mediumpurple;
-background-color: currentColor; silver;
-font-family:fantasy;
+text-color:mediumpurple;
+background-color:silver;
 margin: auto;
-display: block;
+display:inline;
 text-align: center;
-font-style: normal;
 }
 p{
-  color: currentColor;darkslateblue
-  background-color: currentColor;plum;
+  color:darkblue;
+  background-color:plum;
   font-family:cursive;
-  font-style: oblique;
   margin: auto;
   display: inline;
   text-align: left;
 }
 a{
-  color:currentColor;orchird;
-  background-color: currentColor; plum;
-  font-style: italic;
+  background-color:plum;
   font-family:sans-serif;
+}
+body{
+  background-color:lightsteelblue;
 }
