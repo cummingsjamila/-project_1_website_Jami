@@ -25,9 +25,10 @@ font-size: 28px
 }
 this-is-different{
   color:darkblue;
+  font-family: 'Yatra One', cursive;
 }
 not-this-one{
-//color:purple;
+//color:darkblue;
 //font-family:sans-serif;;
 display:block;
 margin: auto;
@@ -39,6 +40,7 @@ background-color:silver;
 margin: auto;
 display:inline;
 text-align: center;
+font-family: 'Yatra One', cursive;
 }
 p{
   color:darkblue;
@@ -55,4 +57,11 @@ a{
 }
 body{
   background-color:lightsteelblue;
+}
+ul{
+  font-family:'Yatra One', cursive;
+  background-color:darkgrey;
+  font-size: 16px;
+  magin:auto
+  display:inline;
 }
