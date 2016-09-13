@@ -1,10 +1,15 @@
 
-
+@import 'https://fonts.googleapis.com/css?family=Droid+Serif|Merriweather|Playfair+Display|Rokkitt|Yatra+One';
+font-family: 'Merriweather', serif;
+font-family: 'Droid Serif', serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Yatra One', cursive;
+font-family: 'Rokkitt', serif;
 h1{
   //color: darkblue;
   //background:skyblue;
   margin-left: 25px;
-  font-family: monospace;
+  font-family: 'Rokkitt', serif;
 }
 img{
 margin-left: auto;
@@ -15,6 +20,8 @@ display: block;
 h3{
 //text-color:darkslateblue;
 //background-color;plum;
+font-family: 'Rokkitt', serif;
+font-size: 28px
 }
 this-is-different{
   color:darkblue;
@@ -36,7 +43,8 @@ text-align: center;
 p{
   color:darkblue;
   background-color:darkgrey;
-  font-family:cursive;
+  font-family:'Merriweather', serif;
+  font-size: 18px;
   margin: auto;
   display: inline;
   text-align: left;
