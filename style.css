@@ -17,10 +17,10 @@ h3{
 //background-color;plum;
 }
 this-is-different{
-  text-color:skyblue;
+  color:darkblue;
 }
 not-this-one{
-//text-color:purple;
+//color:purple;
 //font-family:sans-serif;;
 display:block;
 margin: auto;
@@ -35,7 +35,7 @@ text-align: center;
 }
 p{
   color:darkblue;
-  background-color:plum;
+  background-color:darkgrey;
   font-family:cursive;
   margin: auto;
   display: inline;
