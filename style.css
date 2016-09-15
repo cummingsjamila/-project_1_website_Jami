@@ -15,21 +15,21 @@ img{
 margin-left: auto;
 margin-right: auto;
 display: block;
-//border-color:darkblue
+border-color:darkblue;
 }
 h3{
 text-color:darkslateblue;
 background-color:slateblue;
 font-family: 'Rokkitt', serif;
-font-size: 28px
+font-size: 28px:
 }
 #this-is-different{
   color:darkblue;
   font-family: 'Yatra One', cursive;
 }
 #not-this-one{
-//color:darkblue;
-//font-family:sans-serif;;
+color:darkblue;
+font-family:sans-serif;
 display:block;
 margin: auto;
 text-align: center;
@@ -67,7 +67,7 @@ background-image: url(https://wallpaperscraft.com/image/sky_clouds_light_multico
 ul{
   font-family:'Yatra One', cursive;
   font-size: 18px;
-  margin:auto
+  margin:auto;
   display:inline;
 }
 li{
@@ -77,5 +77,5 @@ li{
 }
 h5{
   font-size: 12px;
-  background-color:lightblue
+  background-color:lightblue;
 }
